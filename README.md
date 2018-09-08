@@ -13,3 +13,16 @@ ACTION  MOVIES
 8. Mad Max
 9. Comando
 10. Batman el caballero de la noche
+
+
+DRAMA MOVIES
+1. Titanic
+2. Whiplash
+3. Intriga
+4. En primera plana
+5. 12 años esclavitud
+6. Diario una pasion
+7. Red Social
+8. Argo
+9. El pianista
+10. Gladiador
