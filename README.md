@@ -48,3 +48,27 @@ Top ten movies of categories
 - Ratatouille
 - Kung Fu Panda
 - Los Increibles
+
+## Action Movies
+- Terminator
+- Duro de matar
+- Indiana Jones
+- RoboCop
+- Rambo
+- El perfecto asesino
+- Casino Royale
+- Mad Max
+- Comando
+- Batman el caballero de la noche
+
+## Drama Movies
+- Titanic
+- Whiplash
+- Intriga
+- En primera plana
+- 12 años esclavitud
+- Diario una pasion
+- Red Social
+- Argo
+- El pianista
+- Gladiador
