@@ -36,3 +36,15 @@ Top ten movies of categories
 - Iron Man
 - Captain America: Civil War
 - Captain America: The Winter Soldier 
+
+## Animated Movies
+- Toy Story
+- Up
+- Cars
+- La era del hielo
+- Coco
+- El Rey Leon
+- Wall-e
+- Ratatouille
+- Kung Fu Panda
+- Los Increibles
