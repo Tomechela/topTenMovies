@@ -24,3 +24,15 @@ Top ten movies of categories
 - El Aro
 - Rec
 - Un lugar en silencio
+
+## Super Hero Movies
+- The Dark Knight
+- The Avengers
+- The Dark Knight Rises
+- Spider-Man 2
+- Batman Begins
+- Guardians of the Galaxy
+- Logan 
+- Iron Man
+- Captain America: Civil War
+- Captain America: The Winter Soldier 
